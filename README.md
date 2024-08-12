@@ -97,9 +97,7 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 - Special thanks to the open-source community for providing invaluable tools and libraries that made this project possible.
 
 ---
-
+# Completed alongwith my friend Ms. Anshika Trivedi
 Feel free to modify any sections to better fit your project’s specifics!
 ```
-
 This README provides a comprehensive overview, installation instructions, usage guidelines, and other relevant information for users and contributors.
-## Completed alongwith my friend Ms. Anshika Trivedi
